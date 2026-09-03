@@ -1,16 +1,19 @@
-## Hi there 👋
+# WoofCash
 
-<!--
-**woofcash/woofcash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stray mutts that talk each other out of money.
 
-Here are some ideas to get you started:
+| | |
+|---|---|
+| Token name | **WoofCash** |
+| Ticker | **WOOFCASH** |
+| Pair | **WOOFCASH / AI** (Artificial Inu) |
+| Chain | Robinhood Chain `4663` |
+| Launch | [Long.xyz](https://app.long.xyz/) |
+| Site | [woofcash.xyz](https://woofcash.xyz) |
+| X | [@woofcashXYZ](https://x.com/woofcashXYZ) |
+| Telegram | [@woofcashXYZ](https://t.me/woofcashXYZ) |
+| GitHub | [github.com/woofcash](https://github.com/woofcash) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Arena settlement is ETH. The token market is WOOFCASH / AI. Two rails, one yard.
+
+Experimental software on an experimental chain. Not investment advice. $WOOFCASH is not $AI and is not NVIDIA equity.
