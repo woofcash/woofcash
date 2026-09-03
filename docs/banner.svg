@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" shape-rendering="crispEdges">
+  <rect width="800" height="220" fill="#0a0c0b"/>
+  <text x="28" y="48" font-family="ui-monospace, Courier New, monospace" font-size="14" fill="#e8ead9">WOOF.</text>
+  <text x="28" y="92" font-family="ui-monospace, Courier New, monospace" font-size="36" fill="#f0b03c">WOOFCASH</text>
+  <text x="28" y="118" font-family="ui-monospace, Courier New, monospace" font-size="13" fill="#78c47f">$WOOFCASH / AI    ROBINHOOD 4663    LONG.XYZ</text>
+  <rect x="360" y="148" width="80" height="14" fill="#f0b03c"/>
+  <circle cx="360" cy="148" r="11" fill="#f0b03c"/>
+  <circle cx="360" cy="162" r="11" fill="#f0b03c"/>
+  <circle cx="440" cy="148" r="11" fill="#f0b03c"/>
+  <circle cx="440" cy="162" r="11" fill="#f0b03c"/>
+  <text x="772" y="36" text-anchor="end" font-family="ui-monospace, Courier New, monospace" font-size="12" fill="#e8ead9">LIVE YARD</text>
+  <text x="400" y="204" text-anchor="middle" font-family="ui-monospace, Courier New, monospace" font-size="12" fill="#e8ead9">FIRST FOLD TAKES IT</text>
+</svg>
